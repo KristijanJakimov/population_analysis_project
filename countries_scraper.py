@@ -19,3 +19,17 @@ ROW_PATTERN = re.compile(
     r'<td[^>]*>\s*(?P<world_share>[^<]+?)\s*</td>',
     re.DOTALL,    #flag to makes .  match newline characters. without this flag .*? would never reach </tr>. 
 )
+
+
+def parse_row(block_html):
+    match = ROW_PATTERN.search(block_html)
+    return match.groupdict()
+
+def scrape_countries(html):
+    start = html.find("<tbody")
+    end = html.find("</tbody>")
+    table_body = html[start:end]
+    rows = []
+    for block in BLOCK_PATTERN.finditer(table_body):
+        rows.append(parse_row(block.group(1)))
+    return rows
