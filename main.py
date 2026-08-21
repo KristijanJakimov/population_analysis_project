@@ -9,6 +9,9 @@ html = fetch_page(COUNTRIES_URL)
 countries = scrape_countries(html)
 save_to_csv(countries, "countries.csv", COUNTRY_FIELDS)
 
+REGION_URLS={"Africa": "https://www.worldometers.info/population/africa/","Asia": "https://www.worldometers.info/population/asia/",
+"Europe": "https://www.worldometers.info/population/europe/","Latin America and the Caribbean": "https://www.worldometers.info/population/latin-america-and-the-caribbean/",
+"Northern America": "https://www.worldometers.info/population/northern-america/","Oceania": "https://www.worldometers.info/population/oceania/",}
 
 REGION_FIELDS = ["country", "continent"]
 

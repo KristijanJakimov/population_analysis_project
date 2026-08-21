@@ -1,0 +1,235 @@
+country,continent
+Ethiopia,Africa
+Tanzania,Africa
+Kenya,Africa
+Uganda,Africa
+Mozambique,Africa
+Madagascar,Africa
+Malawi,Africa
+Zambia,Africa
+Somalia,Africa
+Zimbabwe,Africa
+Rwanda,Africa
+Burundi,Africa
+South Sudan,Africa
+Eritrea,Africa
+Mauritius,Africa
+Djibouti,Africa
+Comoros,Africa
+RÃ©union,Africa
+Mayotte,Africa
+Seychelles,Africa
+Nigeria,Africa
+Ghana,Africa
+CÃ´te d'Ivoire,Africa
+Niger,Africa
+Mali,Africa
+Burkina Faso,Africa
+Senegal,Africa
+Guinea,Africa
+Benin,Africa
+Togo,Africa
+Sierra Leone,Africa
+Liberia,Africa
+Mauritania,Africa
+Gambia,Africa
+Guinea-Bissau,Africa
+Cabo Verde,Africa
+Saint Helena,Africa
+Egypt,Africa
+Sudan,Africa
+Algeria,Africa
+Morocco,Africa
+Tunisia,Africa
+Libya,Africa
+Western Sahara,Africa
+DR Congo,Africa
+Angola,Africa
+Cameroon,Africa
+Chad,Africa
+Congo,Africa
+Central African Republic,Africa
+Gabon,Africa
+Equatorial Guinea,Africa
+Sao Tome and Principe,Africa
+South Africa,Africa
+Namibia,Africa
+Botswana,Africa
+Lesotho,Africa
+Eswatini,Africa
+India,Asia
+Pakistan,Asia
+Bangladesh,Asia
+Iran,Asia
+Afghanistan,Asia
+Nepal,Asia
+Sri Lanka,Asia
+Bhutan,Asia
+Maldives,Asia
+China,Asia
+Japan,Asia
+South Korea,Asia
+North Korea,Asia
+Taiwan,Asia
+"China, Hong Kong SAR",Asia
+Mongolia,Asia
+"China, Macao SAR",Asia
+Indonesia,Asia
+Philippines,Asia
+Vietnam,Asia
+Thailand,Asia
+Myanmar,Asia
+Malaysia,Asia
+Cambodia,Asia
+Laos,Asia
+Singapore,Asia
+Timor-Leste,Asia
+Brunei Darussalam,Asia
+Turkey,Asia
+Iraq,Asia
+Yemen,Asia
+Saudi Arabia,Asia
+Syria,Asia
+Jordan,Asia
+United Arab Emirates,Asia
+Azerbaijan,Asia
+Israel,Asia
+Lebanon,Asia
+State of Palestine,Asia
+Oman,Asia
+Kuwait,Asia
+Georgia,Asia
+Qatar,Asia
+Armenia,Asia
+Bahrain,Asia
+Cyprus,Asia
+Uzbekistan,Asia
+Kazakhstan,Asia
+Tajikistan,Asia
+Turkmenistan,Asia
+Kyrgyzstan,Asia
+Russia,Europe
+Ukraine,Europe
+Poland,Europe
+Romania,Europe
+Czechia,Europe
+Hungary,Europe
+Belarus,Europe
+Bulgaria,Europe
+Slovakia,Europe
+Moldova,Europe
+Germany,Europe
+France,Europe
+Netherlands,Europe
+Belgium,Europe
+Austria,Europe
+Switzerland,Europe
+Luxembourg,Europe
+Liechtenstein,Europe
+Monaco,Europe
+Italy,Europe
+Spain,Europe
+Portugal,Europe
+Greece,Europe
+Serbia,Europe
+Croatia,Europe
+Bosnia and Herzegovina,Europe
+Albania,Europe
+Slovenia,Europe
+Republic of North Macedonia,Europe
+Montenegro,Europe
+Malta,Europe
+Andorra,Europe
+Gibraltar,Europe
+San Marino,Europe
+Holy See,Europe
+United Kingdom,Europe
+Sweden,Europe
+Denmark,Europe
+Norway,Europe
+Finland,Europe
+Ireland,Europe
+Lithuania,Europe
+Latvia,Europe
+Estonia,Europe
+Iceland,Europe
+Isle of Man,Europe
+Faeroe Islands,Europe
+Brazil,Latin America and the Caribbean
+Colombia,Latin America and the Caribbean
+Argentina,Latin America and the Caribbean
+Peru,Latin America and the Caribbean
+Venezuela,Latin America and the Caribbean
+Chile,Latin America and the Caribbean
+Ecuador,Latin America and the Caribbean
+Bolivia,Latin America and the Caribbean
+Paraguay,Latin America and the Caribbean
+Uruguay,Latin America and the Caribbean
+Guyana,Latin America and the Caribbean
+Suriname,Latin America and the Caribbean
+French Guiana,Latin America and the Caribbean
+Falkland Islands,Latin America and the Caribbean
+Mexico,Latin America and the Caribbean
+Guatemala,Latin America and the Caribbean
+Honduras,Latin America and the Caribbean
+Nicaragua,Latin America and the Caribbean
+El Salvador,Latin America and the Caribbean
+Costa Rica,Latin America and the Caribbean
+Panama,Latin America and the Caribbean
+Belize,Latin America and the Caribbean
+Haiti,Latin America and the Caribbean
+Dominican Republic,Latin America and the Caribbean
+Cuba,Latin America and the Caribbean
+Puerto Rico,Latin America and the Caribbean
+Jamaica,Latin America and the Caribbean
+Trinidad and Tobago,Latin America and the Caribbean
+Bahamas,Latin America and the Caribbean
+Guadeloupe,Latin America and the Caribbean
+Martinique,Latin America and the Caribbean
+Barbados,Latin America and the Caribbean
+CuraÃ§ao,Latin America and the Caribbean
+Saint Lucia,Latin America and the Caribbean
+Grenada,Latin America and the Caribbean
+Aruba,Latin America and the Caribbean
+Saint Vincent and the Grenadines,Latin America and the Caribbean
+Antigua and Barbuda,Latin America and the Caribbean
+United States Virgin Islands,Latin America and the Caribbean
+Cayman Islands,Latin America and the Caribbean
+Dominica,Latin America and the Caribbean
+Turks and Caicos Islands,Latin America and the Caribbean
+Saint Kitts and Nevis,Latin America and the Caribbean
+Sint Maarten,Latin America and the Caribbean
+British Virgin Islands,Latin America and the Caribbean
+Caribbean Netherlands,Latin America and the Caribbean
+Saint Martin,Latin America and the Caribbean
+Anguilla,Latin America and the Caribbean
+Saint BarthÃ©lemy,Latin America and the Caribbean
+Montserrat,Latin America and the Caribbean
+United States,Northern America
+Canada,Northern America
+Bermuda,Northern America
+Greenland,Northern America
+Saint Pierre and Miquelon,Northern America
+Australia,Oceania
+New Zealand,Oceania
+Papua New Guinea,Oceania
+Fiji,Oceania
+Solomon Islands,Oceania
+Vanuatu,Oceania
+New Caledonia,Oceania
+French Polynesia,Oceania
+Samoa,Oceania
+Tonga,Oceania
+American Samoa,Oceania
+Cook Islands,Oceania
+Wallis and Futuna Islands,Oceania
+Tuvalu,Oceania
+Tokelau,Oceania
+Niue,Oceania
+Guam,Oceania
+Kiribati,Oceania
+Micronesia,Oceania
+Northern Mariana Islands,Oceania
+Marshall Islands,Oceania
+Palau,Oceania
+Nauru,Oceania
