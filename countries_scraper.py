@@ -6,7 +6,7 @@ BLOCK_PATTERN = re.compile(r'<tr id="[^"]*">(.*?)</tr>', re.DOTALL) #turns the p
 
 ROW_PATTERN = re.compile(
     r'<td[^>]*>\s*(?P<rank>\d+)\s*</td>.*?'
-    r'<a[^>]*>\s*(?P<country>[^<]+?)\s*</a>.*?'
+    r'<a[^>]*href="(?P<url>[^"]+)"[^>]*>\s*(?P<country>[^<]+?)\s*</a>.*?'
     r'<td[^>]*>\s*(?P<population>[^<]+?)\s*</td>.*?'
     r'<td[^>]*>\s*(?P<yearly_change>[^<]+?)\s*</td>.*?'
     r'<td[^>]*>\s*(?P<net_change>[^<]+?)\s*</td>.*?'
