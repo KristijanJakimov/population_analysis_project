@@ -1,7 +1,7 @@
 import requests
 import csv
 
-#fdownloads page and returns html content
+#downloads page and returns html content
 def fetch_page(url):
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
