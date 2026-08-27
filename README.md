@@ -40,7 +40,8 @@ The collected data includes:
 - `regions.csv` – country and continent data.
 - `history.csv` – historical population data.
 - `analysis.ipynb` – contains data cleaning, analysis, graphs, and conclusions.
-- `AI_ASSISTANCE.md` – describes how AI was used while reviewing and improving the project.
+- `AI_ASSISTANCE_TRANSCRIPT_main_chat.md` – main conversation used for the project, the file is written by ChatGPT itself
+- `AI_ASSISTANCE_wording_logic_help.md` - secondary conversation, used mainly for checking logical correctness and wording
 
 ## Data Collection
 
